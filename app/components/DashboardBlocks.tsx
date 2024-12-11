@@ -96,7 +96,7 @@ export async function DashboardBlocks() {
                     <h2 className="text-2xl font-bold">
                         {openInvoices.length}
                     </h2>
-                    <p className="text-xs text-muted-foreground">Total invoices which haven't been paid</p>
+                    <p className="text-xs text-muted-foreground">Total invoices which havent been paid</p>
                 </CardContent>
             </Card>
         </div>
